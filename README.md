@@ -9,7 +9,8 @@ Test_data found at https://www.kaggle.com/aman2000jaiswal/testssss
 https://www.kaggle.com/aman2000jaiswal/agriculture-crop-images
 
 ## About the model :
- ###ANN Model:
+
+### ANN Model:
  
  Model: "sequential_2"
 _________________________________________________________________
@@ -27,7 +28,7 @@ Total params: 40,115,717
 Trainable params: 40,115,717
 Non-trainable params: 0
 
-###CNN Model:
+### CNN Model:
 
 Model: "sequential_1"
 _________________________________________________________________
